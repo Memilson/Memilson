@@ -65,7 +65,7 @@ Estou aprofundando conhecimentos em ferramentas de nível Enterprise para gestã
   <a href="https://www.linkedin.com/in/angelo-augusto-b702ba24b/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:angelolealpl14@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/eaeaugusto_/" target="_blank">
